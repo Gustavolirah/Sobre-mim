@@ -16,4 +16,4 @@ Olá , sou GUSTAVO! Um estudante de análise de desenvolvimento de sistemas do B
 
 linkedin/https://www.linkedin.com/in/gustavo-lira-66a860278/
 instagram/https://www.instagram.com/codigo_prodigio/
-- O instagram que utilizo para desenvolver alguns projetos, onde fiz até mesmo marketing como trafego pago, para conseguir clientes interessados em desenvolver sites.
+- O instagram que utilizei para desenvolver alguns projetos, onde fiz até mesmo marketing como trafego pago, para conseguir clientes interessados em desenvolver sites.
