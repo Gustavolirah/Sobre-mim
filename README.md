@@ -1,5 +1,5 @@
 Olá Mundo 🌐
-Olá , sou GUSTAVO! UM estudante de análise de desenvolvimento de sistemas do Brasil.
+Olá , sou GUSTAVO! Um estudante de análise de desenvolvimento de sistemas do Brasil.
 
 🚀 Meu grande sonho é crescer como desenvolvedor e poder morar fora do Brasil.
 
