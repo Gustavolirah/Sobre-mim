@@ -15,6 +15,4 @@ Olá , sou GUSTAVO! Um estudante de análise de desenvolvimento de sistemas do B
 - Usei meu conhecimento para trabalhos de freelancer,porém meu grande objetivo é conseguir um emprego na área de desenvolvedor de softwares.
 
 linkedin/https://www.linkedin.com/in/gustavo-lira-66a860278/
-instagram/https://www.instagram.com/codigo_prodigio/
 
-- O instagram que criei para desenvolver projetos, onde fiz até mesmo marketing como trafego pago para conseguir clientes interessados em desenvolver sites.
