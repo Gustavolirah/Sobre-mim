@@ -21,5 +21,5 @@ https://github.com/Gustavolirah/Aula-Banco-de-dados
 
 https://github.com/Gustavolirah/Bootcamps
 
-https://github.com/Gustavolirah/Projeto-Aspnet-WPF-DESKTOP-banco-de-dados.git
+https://github.com/Gustavolirah/Projeto-Aspnet-WPF-DESKTOP-banco-de-dados.git     | (WEB & DESKTOP)
 
