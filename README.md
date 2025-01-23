@@ -21,7 +21,7 @@ https://github.com/Gustavolirah/Aula-Banco-de-dados
 
 https://github.com/Gustavolirah/Bootcamps
 
-https://github.com/Gustavolirah/Projeto-Aspnet-WPF-DESKTOP-banco-de-dados.git     | (WEB & DESKTOP)
+https://github.com/Gustavolirah/Projeto-Aspnet-WPF-DESKTOP-banco-de-dados.git     | (WEB & DESKTOP) SQL SERVER
 
-https://github.com/Gustavolirah/procees.io           | API DE CADASTRO DE PRODUTOS/MERCADO LIVRE
+https://github.com/Gustavolirah/procees.io           | API DE CADASTRO DE PRODUTOS PHP $ MYSQL/MERCADO LIVRE
 
