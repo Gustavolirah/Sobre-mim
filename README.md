@@ -1,10 +1,10 @@
 
-Olá , sou GUSTAVO! Um estudante de análise de desenvolvimento de sistemas.
+Olá , sou GUSTAVO! 
 
-🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar como desenvolvedor de softwares.
+🔭 Estou procurando oportunidade de emprego de trabalhar como desenvolvedor de software.
 
 👩‍💻 Mais sobre mim.
-- Estou no 4 semestre do curso.
+- Curso completo de analise e desnvolvimento de sistemas.
 - certificado pl 300.
 - certificado pl 900.
 - certificado de python.
