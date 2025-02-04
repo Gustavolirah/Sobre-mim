@@ -14,16 +14,15 @@ Olá , sou GUSTAVO atualmente trabalho na HUB digital onde sou Dev & Gestor de t
 linkedin/https://www.linkedin.com/in/gustavo-lira-66a860278/
 
 REPOSITIRIOS:
-
-https://github.com/Gustavolirah/Software-Academico-UNIP
+https://github.com/Gustavolirah/Software-Totem
 
 https://github.com/Gustavolirah/Aula-Banco-de-dados
 
 https://github.com/Gustavolirah/Bootcamps
 
-https://github.com/Gustavolirah/Projeto-Aspnet-WPF-DESKTOP-banco-de-dados.git     | (WEB & DESKTOP) SQL SERVER
+https://github.com/Gustavolirah/Projeto-Aspnet-banco-de-dados   | (WEB & DESKTOP) SQL SERVER
 
-https://github.com/Gustavolirah/API-CADASTROPRODUT         | API DE CADASTRO DE PRODUTOS PHP 
+https://github.com/Gustavolirah/API-CADASTROPRODUT         | API DE CADASTRO DE PRODUTOS PHP, CSS, LARAVEL, MYSQL
 
 https://github.com/Gustavolirah/Projeto-em-C               | Sistema de compra de ingressos e gestão em C
 
