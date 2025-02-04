@@ -25,5 +25,7 @@ https://github.com/Gustavolirah/Projeto-Aspnet-WPF-DESKTOP-banco-de-dados.git   
 
 https://github.com/Gustavolirah/API-CADASTROPRODUT         | API DE CADASTRO DE PRODUTOS PHP 
 
+https://github.com/Gustavolirah/Projeto-em-C               | Sistema de compra de ingressos e gestão em C
+
 
 
