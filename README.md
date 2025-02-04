@@ -1,7 +1,7 @@
 
-Olá , sou GUSTAVO! 
+Olá , sou GUSTAVO atualmente trabalho na HUB digital onde sou Dev & Gestor de trafego.
 
-🔭 Estou procurando oportunidade de emprego de trabalhar como desenvolvedor de software.
+🔭 Estou sempre em busca de ampliar meus conhecimentos e aprimorar minhas habilidades. Acredito que a aprendizagem constante é essencial para o crescimento profissional e pessoal, e estou sempre aberto a novas oportunidades para evoluir e me desenvolver em diversas áreas.
 
 👩‍💻 Mais sobre mim.
 - Curso completo de analise e desnvolvimento de sistemas.
