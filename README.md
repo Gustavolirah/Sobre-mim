@@ -1,5 +1,5 @@
 
-Olá , sou GUSTAVO atualmente trabalho na HUB digital onde sou Dev & Gestor de trafego.
+Olá, sou Gustavo e atualmente trabalho na HUB Digital como Desenvolvedor e Gestor de Tráfego. Minha rotina envolve o desenvolvimento de sites e aplicativos e sistemas, além de gerenciar estratégias de tráfego para impulsionar o alcance e a conversão dos nossos projetos. Estou sempre em busca de novas soluções tecnológicas e estratégias eficazes para entregar resultados de alto impacto.
 
 🔭 Estou sempre em busca de ampliar meus conhecimentos e aprimorar minhas habilidades. Acredito que a aprendizagem constante é essencial para o crescimento profissional e pessoal, e estou sempre aberto a novas oportunidades para evoluir e me desenvolver em diversas áreas.
 
@@ -9,7 +9,7 @@ Olá , sou GUSTAVO atualmente trabalho na HUB digital onde sou Dev & Gestor de t
 - certificado pl 900.
 - certificado de python.
 - projeto academico/desenvolvimento de um software interativo e intuitivo.
-- Usei meu conhecimento para trabalhos de freelancer,porém meu grande objetivo é conseguir um emprego na área de desenvolvedor de softwares.
+- Usei meu conhecimento para trabalhos de freelancer como sites corporativos, atualmente estou desenvolvendo aplicativo para uma clinica, automações com IA, e estratégias de vendas na HUB .
 
 linkedin/https://www.linkedin.com/in/gustavo-lira-66a860278/
 
