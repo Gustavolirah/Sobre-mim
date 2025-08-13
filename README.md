@@ -1,4 +1,4 @@
-MEU PORTFÓLIO https://gustavolirah.github.io/Myportfolio.io/
+MEU PORTFÓLIO https://gustavolirah.github.io/myportfolio.io/
 
 Olá, sou Gustavo e atualmente trabalho na HUB Digital como Desenvolvedor e Gestor de Tráfego. Minha rotina envolve o desenvolvimento de sites e aplicativos e sistemas, além de gerenciar estratégias de tráfego para impulsionar o alcance e a conversão dos nossos projetos. Estou sempre em busca de novas soluções tecnológicas e estratégias eficazes para entregar resultados de alto impacto.
 
